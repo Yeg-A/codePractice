@@ -11,7 +11,8 @@
     "selectionSort": "node -e 'require(\"./selectionSort-4-6-19\").runSelectionSort()'",
     "binarySearch": "node -e 'require(\"./binarySearch-4-6-19\").runBinarySearch()'",
     "heapSort": "node -e 'require(\"./heapSort2-4-9-19\").runHeapSort()'",
-    "insertionSort": "node -e 'require(\"./insertionSort2-4-9-19\").runInsertionSort()'"
+    "insertionSort": "node -e 'require(\"./insertionSort2-4-9-19\").runInsertionSort()'",
+    "jumpToZero": "node -e 'require(\"./jumpToZero-4-9-19\").runJumpToZero()'"
   },
   "repository": {
     "type": "git",
